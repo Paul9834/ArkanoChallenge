@@ -1,6 +1,5 @@
-package com.paul9834.arkano.ui.theme
+package com.paul9834.arkano.ui.components.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
