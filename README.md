@@ -24,9 +24,9 @@ La pantalla tiene tres momentos claros:
 3. **Error**: Si algo sale mal, sale un mensaje avisando qué pasó.
 
 ## Lo que faltó por tiempo
-- **Paginación**: La API tiene muchísimos personajes (42 páginas) y por ahora solo traigo la primera tanda.
+- **Paginación**: La API tiene muchísimos personajes (42 páginas) y por ahora solo traigo la primera carga.
 - **Búsqueda**: Estaría bueno poder buscar personajes por nombre o filtrar por estado.
-- **Pantalla de detalle**: Por ahora no se puede entrar a ver más info de cada personaje al tocarlo.
+- **Pantalla de detalle**: La idea es entrar a ver más info de cada personaje al presionar.
 
 ## Qué se podría mejorar
 - Meter **Paging 3** para manejar el scroll infinito de forma nativa.
