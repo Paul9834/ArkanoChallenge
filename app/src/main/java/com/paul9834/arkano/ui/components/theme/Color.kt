@@ -1,4 +1,4 @@
-package com.paul9834.arkano.ui.theme
+package com.paul9834.arkano.ui.components.theme
 
 import androidx.compose.ui.graphics.Color
 
