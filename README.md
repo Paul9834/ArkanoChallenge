@@ -33,3 +33,13 @@ La pantalla tiene tres momentos claros:
 - Filtros por estado (Vivo, Muerto, Desconocido)
 - Agregar **Room** para que la app funcione sin internet (offline-firts)
 
+## Uso de AI
+
+Se utilizó AI (Gemini) como asistente de decisiones técnicas en:
+
+- **Definición de arquitectura**: validar si MVVM + Repository era la estructura
+  correcta para la prueba
+- **Selección de librerías**: discutir Coil vs Glide y justificar la elección
+- **Revisión de estructura de paquetes**: confirmar separación de capas
+- **Consultas puntuales de API**: validar el contrato del endpoint antes de
+  escribir los DTOs
